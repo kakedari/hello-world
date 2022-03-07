@@ -170,6 +170,13 @@
         <version>2.5</version>
       </dependency>
 
+      <!-- https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j -->
+      <dependency>
+         <version>2.9.1</version>
+         <groupId>net.lingala.zip4j</groupId>
+         <artifactId>zip4j</artifactId>
+      </dependency>
+           
       <dependency>
         <groupId>javax.servlet.jsp</groupId>
         <artifactId>jsp-api</artifactId>
